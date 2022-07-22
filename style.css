@@ -332,6 +332,8 @@ header{
     position: relative;
     border-radius: 50%;
     object-fit: cover;
+    overflow: hidden;
+    margin-top: 50px;
 }
 
 .home-img{
